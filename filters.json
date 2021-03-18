@@ -1,0 +1,50 @@
+{
+    "filters": {
+        "sortOptions": [
+            {
+                "translationKey": "mobile.ios.vegas.sort.option.default",
+                "sortOrder": "default",
+                "isSelected": true
+            },
+            {
+                "translationKey": "mobile.ios.vegas.sort.option.alphabetical",
+                "sortOrder": "alphabetical",
+                "isSelected": false
+            },
+            {
+                "translationKey": "mobile.ios.vegas.sort.option.popular",
+                "sortOrder": "popular",
+                "isSelected": false
+            },
+            {
+                "translationKey": "mobile.ios.vegas.sort.option.newest",
+                "sortOrder": "newest",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "filterOptions": [
+            {
+                "translationKey": "mobile.ios.vegas.filter.option.slots",
+                "gameType": "slots",
+                "isSelected": true
+            },
+            {
+                "translationKey": "mobile.ios.vegas.filter.option.table",
+                "gameType": "table",
+                "isSelected": true
+            },
+            {
+                "translationKey": "mobile.ios.vegas.filter.option.jackpot",
+                "gameType": "jackpot",
+                "isSelected": true
+            },
+            {
+                "translationKey": "mobile.ios.vegas.filter.option.live",
+                "gameType": "live",
+                "isSelected": true
+            }
+        ]
+    }
+}
